@@ -9,3 +9,4 @@ hello,git!hello,zhabinglong!
 hello,git!hello,zhabinglong!
 hello,git!hello,zhabinglong!
 hello,git!hello,zhabinglong!master!
+hello,git!hello,zhabinglong!hot-fix!
